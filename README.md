@@ -6,7 +6,7 @@ Feel free to click on the __badges__ to get an idea about the technologies and t
 
 __Note:__ The website design was implemented with the help of this udemy course - [The best course for learning the basics of HTML5 and CSS3 from scratch. Including 5 projects, perfect for beginnners](https://cognizant.udemy.com/course/responsive-web-design-tutorial-course-html5-css3-bootstrap/learn/lecture/15472206#overview) 
 
-<img src = "https://github.com/suhasmaddali/Roar-Bikes-Webpage/blob/main/images/Bike%20Service.jpg" />
+<img src = "https://github.com/suhasmaddali/Roar-Bikes-Webpage/blob/main/images/Bike%20Service.jpg" width = 750/>
 
 This is a repository that contains a website design for Roar bikes (randomly created name). 
 
