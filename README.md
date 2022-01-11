@@ -8,6 +8,8 @@ __Note:__ The website design was implemented with the help of this udemy course 
 
 <img src = "https://github.com/suhasmaddali/Roar-Bikes-Webpage/blob/main/images/Bike%20Service.jpg" width = 750/>
 
+## Introduction 
+
 This is a repository that contains a website design for Roar bikes (randomly created name). 
 
 ## 👉 Directions to download the repository and run the notebook 
