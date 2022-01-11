@@ -14,9 +14,12 @@ This is a repository that contains a website design for Roar bikes (randomly cre
 
 ## Tools Used 
 
-__1. CSS3__
+1. CSS3
+2. HTML5
 
-__2. HTML5__
+## Results
+
+After effectively using HTML and CSS, a roar bike rental service website is designed so that users get to book the service. 
 
 
 
