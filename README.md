@@ -10,7 +10,12 @@ __Note:__ The website design was implemented with the help of this udemy course 
 
 ## Introduction 
 
-This is a repository that contains a website design for Roar bikes (randomly created name). 
+This is a repository that contains a website design for Roar bikes (randomly created name). The website contains useful information about the bikes along with a possibility to book services in a form. In addition to this, an user is also given an option to enter the details in the form of text so that it is notified to the company and action could be taken. 
+
+## Tools Used 
+
+1. CSS3
+2. HTML5
 
 ## 👉 Directions to download the repository and run the notebook 
 
