@@ -4,13 +4,15 @@
 
 Feel free to click on the __badges__ to get an idea about the technologies and tools used in the process of creating and designing webpages. 
 
-__Note:__ The website design was implemented with the help of this udemy course - [The best course for learning the basics of HTML5 and CSS3 from scratch. Including 5 projects, perfect for beginnners](https://cognizant.udemy.com/course/responsive-web-design-tutorial-course-html5-css3-bootstrap/learn/lecture/15472206#overview) 
-
-<img src = "https://github.com/suhasmaddali/Roar-Bikes-Webpage/blob/main/images/Bike%20Service.jpg" width = 750/>
-
 ## Introduction 
 
 This is a repository that contains a website design for Roar bikes (randomly created name). The website contains useful information about the bikes along with a possibility to book services in a form. In addition to this, an user is also given an option to enter the details in the form of text so that it is notified to the company and action could be taken. 
+
+
+<img src = "https://github.com/suhasmaddali/Roar-Bikes-Webpage/blob/main/images/Bike%20Service.jpg" width = 750/>
+
+__Note:__ The website design was implemented with the help of this udemy course - [The best course for learning the basics of HTML5 and CSS3 from scratch. Including 5 projects, perfect for beginnners](https://cognizant.udemy.com/course/responsive-web-design-tutorial-course-html5-css3-bootstrap/learn/lecture/15472206#overview) 
+
 
 ## Tools Used 
 
