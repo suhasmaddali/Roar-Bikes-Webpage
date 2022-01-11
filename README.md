@@ -14,8 +14,10 @@ This is a repository that contains a website design for Roar bikes (randomly cre
 
 ## Tools Used 
 
-1. CSS3
-2. HTML5
+__1. CSS3__
+__2. HTML5__
+
+
 
 ## 👉 Directions to download the repository and run the notebook 
 
