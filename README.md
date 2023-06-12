@@ -21,8 +21,8 @@ This is a repository that contains a website design for Roar bikes (randomly cre
 
 ## Tools Used 
 
-1. CSS3
-2. HTML5
+* __CSS3__
+* __HTML5__
 
 ## Results
 
