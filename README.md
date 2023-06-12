@@ -26,8 +26,6 @@ This is a repository that contains a website design for Roar bikes (randomly cre
 
 ## Results
 
-After effectively using HTML and CSS, a roar bike rental service website is designed so that users get to book the service. 
-
 * The roar bike rental service website is designed with a user-friendly interface using HTML and CSS, ensuring a seamless browsing experience for users.
 * The website is equipped with a well-designed booking system that allows users to easily book the bike rental service, making the process quick and efficient.
 * The website features an appealing design that captures users' attention, encouraging them to explore the services and ultimately book a bike rental, enhancing the overall user experience.
